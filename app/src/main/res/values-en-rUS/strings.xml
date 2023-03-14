@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ai-Dream-master</string>
+    <string name="sleep" >SLEEP</string>
+    <string name="main_sleep_desc" >Sleep sensing and home automatione\n quipment give you energetic sleep,\n
+Secure every day.</string>
+    <string name="connect">CONNECT</string>
+    <string name="connecting">Connecting</string>
+    <string name="is_connecting">Connected</string>
+
+    <string name="not_support">The device does not support Bluetooth</string>
+    <string name="not_support_12">APP Bluetooth function requires BleScan permission for Android 12, do I need to open the setting page?</string>
+    <string name="track_sleep">Track Sleep \nCycles</string>
+    <string name="times_min">min</string>
+    <string name="sleep_sccore">Sleep_Score</string>
+    <string name="hr">hr</string>
+    <string name="min">min</string>
+    <string name="snore">Snore</string>
+    <string name="today">today</string>
+    <string name="heart_rate">Continous \nHeart Rate Tracking</string>
+    <string name="average">average value</string>
+    <string name="situp">Sit up</string>
+    <string name="out_of_bed">Off the bed</string>
+    <string name="times">times</string>
+    <string name="body">motion</string>
+    <string name="in_bed">In bed</string>
+    <string name="sleep_circle_sccore">Sleep score</string>
+    <string name="sleep_duration">Sleep duration</string>
+    <string name="duration">Duration</string>
+    <string name="recovery">Recovery</string>
+    <string name="interruptions">Interruptions</string>
+    <string name="regularity">Regularity</string>
+    <string name="track_sleep_title">Track Sleep Cycles</string>
+    <string name="track_sleep_content">By precisely assessing the sleep stage you’re in, Sleep Analyzer helps you to monitor recovery during your night:</string>
+    <string name="deep_title">Deep</string>
+    <string name="deep_content">During deep Sleep, breathing slows and muscles relax. This phase helps you recovery from physical fatigue, and enables learning and memory consolidation.</string>
+    <string name="rem_title">Rem</string>
+    <string name="rem_content">Most of your dreams happen in REM (Rapid Eye movement) Sleep. REM is very important for emotion regulation and memory consolidation</string>
+    <string name="ligh_title">light</string>
+    <string name="light_content">Light Sleep is physiologically important but the least restoration of sleep stages. You are easily awoken during this stage.</string>
+    <string name="sleep_sccore_title">Sleep Score</string>
+    <string name="sleep_sccore_content">Sleep analyzer breaks down your night in 6 meaningful indicators with color-coded feedback to clearly identify the dimension of your sleep that can be improved</string>
+    <string name="snore_content">   Track the number of snoring episodes and their durations. In the app. Learn more about snoring patterns and waht impact them.\n\n   To give your a complete and accurate overview of your snoring episodes, our exclusive snoring algorithm has been trained against a dataset of low to heavy snorers. A wide variety of unwanted noises has been included in this data set: subway noises, partnber snoring, washing machine noises,etc (描述需要修改)\n\n  Sleep analzyer can also distinguish your snoring patterns from envriomental noises and your partner’s snoring patterns.</string>
+    <string name="snoring_time">snoring time</string>
+    <string name="inervention_time">inervention_time</string>
+    <string name="abnormal">abnormal</string>
+    <string name="heart_rate_title">Continous Heart Rate Tracking</string>
+    <string name="time_heart">times/min \nof breaths</string>
+    <string name="heart_content">Continous Heart Rate Tracking  The Sleep Score was developed with sleep physicians to build a specific algorithm that reflects the physiological importance of each metric for the body during sleep  Know how to intepret your HR with color-coded feedback and get tips to improve it.</string>
+    <string name="avg_rate">Avg. Sleep Heart Rate</string>
+    <string name="peak">peak</string>
+    <string name="lowest">Lowest</string>
+
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">爱梦智能</string>
+    <string name="sleep">睡眠</string>
+    <string name="main_sleep_desc">睡眠感应和家庭自动化设备为您提供精力充沛的睡眠，每天都安全。</string>
+
+    <string name="connect">连接</string>
+    <string name="is_connecting">已连接</string>
+    <string name="connecting">连接中</string>
+
+    <string name="not_support">设备不支持蓝牙</string>
+    <string name="not_support_12">APP蓝牙功能需要Android 12的BleScan权限，我需要打开设置页面吗？</string>
+    <string name="track_sleep">睡眠跟踪</string>
+    <string name="times_min">分钟</string>
+    <string name="sleep_sccore">睡眠评分</string>
+    <string name="hr">小时</string>
+    <string name="min">分钟</string>
+    <string name="snore">打鼾</string>
+    <string name="today">今天</string>
+    <string name="heart_rate">连续\n心率跟踪</string>
+    <string name="average">平均心率</string>
+    <string name="situp">起床</string>
+    <string name="out_of_bed">离床</string>
+    <string name="times">次数</string>
+    <string name="body">体动</string>
+    <string name="in_bed">在床</string>
+    <string name="sleep_circle_sccore">睡眠分数</string>
+    <string name="sleep_duration">睡眠持续时间</string>
+    <string name="duration">期间</string>
+    <string name="recovery">恢复</string>
+    <string name="interruptions">中断</string>
+    <string name="regularity">规则</string>
+    <string name="track_sleep_title">跟踪睡眠循环</string>
+    <string name="track_sleep_content">通过精确评估您所处的睡眠阶段，睡眠分析仪可帮助您监测夜间恢复情况：</string>
+    <string name="deep_title">深睡</string>
+    <string name="deep_content">在深度睡眠期间，呼吸减慢，肌肉放松。这一阶段有助于你从身体疲劳中恢复，并帮助你巩固学习和记忆。</string>
+    <string name="rem_title">快速眼动</string>
+    <string name="rem_content">你的大多数梦都发生在REM（快速眼动）睡眠中。REM对情绪调节和记忆巩固非常重要</string>
+    <string name="ligh_title">浅睡</string>
+    <string name="light_content">轻度睡眠在生理上很重要，但对睡眠阶段的恢复最少。在这个阶段，你很容易被唤醒。</string>
+    <string name="sleep_sccore_title">睡眠评分</string>
+    <string name="sleep_sccore_content">睡眠分析仪将你的睡眠分为3个有意义的指标，并带有颜色编码的反馈信息，以清晰地识别你的睡眠状况</string>
+    <string name="snore_content">  跟踪打鼾发作的次数及其持续时间。在应用程序中。了解更多关于打鼾模式及其影响因素。\n\n
+为了让您全面准确地了解您的打鼾情况，我们的独家打鼾算法已针对低至重度打鼾者的数据集进行了训练。这组数据中包含了各种各样的不需要的噪音：地铁噪音、伴侣打鼾、洗衣机噪音等(描述需要修改)\n\n
+睡眠分析仪还可以将你的打鼾模式与环境噪音和伴侣的打鼾模式区分开来。</string>
+    <string name="snoring_time">打鼾时间</string>
+    <string name="inervention_time">干扰时间</string>
+    <string name="abnormal">异常</string>
+    <string name="heart_rate_title">持续心率追踪</string>
+    <string name="time_heart">次/分钟\n呼吸</string>
+    <string name="heart_content">持续心率跟踪睡眠评分是由睡眠医生开发的，旨在建立一种特定的算法，以反映睡眠期间每一项指标对身体的生理重要性。了解如何用颜色编码的反馈来整合您的心率，并获得改进建议。</string>
+    <string name="avg_rate">平均睡眠心率</string>
+    <string name="peak">最高值</string>
+    <string name="lowest">最低值</string>
+
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--<androidx.cardview.widget.CardView -->
+
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    app:cardUseCompatPadding="true"-->
+<!--    android:layout_margin="@dimen/dp_10"-->
+<!--    app:cardCornerRadius="@dimen/dp_10">-->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="* Track Sleep Cycles"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </TextView>
+
+
+        <TextView
+            android:id="@+id/tvContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3dp"
+            android:lineSpacingExtra="2dp"
+            android:text="
+By precisely assessing the sleep stage you’re in, Sleep Analyzer helps you to monitor recovery during your night:"
+            app:layout_constraintTop_toBottomOf="@+id/tvTitle">
+
+        </TextView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+<!--</androidx.cardview.widget.CardView>-->

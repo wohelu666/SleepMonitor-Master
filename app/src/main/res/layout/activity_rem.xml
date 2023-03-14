@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".RemActivity">
+
+        <ImageView
+            android:id="@+id/iv_backrem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="30dp"
+            android:padding="@dimen/dp_10"
+            android:src="@mipmap/left_arrow"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="35dp"
+            android:text="@string/track_sleep_title"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        </TextView>
+        <ImageView
+            android:id="@+id/iv"
+            app:layout_constraintTop_toBottomOf="@id/title"
+            android:layout_gravity="center"
+            android:src="@mipmap/logo3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ImageView>
+        <com.github.mikephil.charting.charts.ScatterChart
+            android:id="@+id/scatterChart"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="30dp"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@id/iv">
+
+        </com.github.mikephil.charting.charts.ScatterChart>
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/remChart"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:layout_marginTop="30dp"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@id/iv">
+
+        </com.github.mikephil.charting.charts.BarChart>
+
+        <com.example.sleepmonitor_master_v3.view.SleepQualityView
+            android:id="@+id/sleepView"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="@dimen/dp_10"
+            app:layout_constraintTop_toBottomOf="@id/iv">
+
+        </com.example.sleepmonitor_master_v3.view.SleepQualityView>
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvDesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp_10"
+            android:layout_marginTop="15sp"
+            android:nestedScrollingEnabled="false"
+            android:textColor="#000"
+            android:textSize="15sp"
+            app:layout_constraintTop_toBottomOf="@+id/sleepView" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

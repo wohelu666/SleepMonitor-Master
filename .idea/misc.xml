@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/fade_pink.xml" value="0.34427083333333336" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/ic_brightness_curve_point.xml" value="0.3234375" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/selector_connect.xml" value="0.3145833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_air_pressure.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_background.xml" value="0.30615384615384617" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_background_black.xml" value="0.32037037037037036" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_bj.xml" value="0.346875" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_connect.xml" value="0.3145833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/drawable/shape_connect_press.xml" value="0.3145833333333333" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_apnea.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_blue_tooth_find.xml" value="0.2907608695652174" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_body_movement.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_home.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_inbed.xml" value="0.31666666666666665" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_main.xml" value="0.3134087237479806" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_off_the_bed.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_rem.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_situp.xml" value="0.2296875" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/activity_snore.xml" value="0.328125" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/item_ble.xml" value="0.2328125" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/item_gas.xml" value="0.3307291666666667" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/item_rem_desc.xml" value="0.328125" />
+        <entry key="..\:/AndroidStudioProjects/SleepMonitorMaster/app/src/main/res/layout/layout_markview.xml" value="0.3072916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
